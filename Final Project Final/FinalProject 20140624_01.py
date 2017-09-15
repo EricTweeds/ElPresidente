@@ -2,6 +2,7 @@ import pygame, sys, glob, random, time                                          
 from pygame.locals import *                                                     #more imports
 pygame.init()                                                                   #intializing
 
+print "Ryan is the best"
 def new_panel(panel, x):
     '''
     (int, int) -> int
